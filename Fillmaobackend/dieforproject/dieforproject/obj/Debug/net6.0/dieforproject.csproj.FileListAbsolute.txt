@@ -1,0 +1,115 @@
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.exe
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.deps.json
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.runtimeconfig.json
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.pdb
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\FireSharp.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.AssemblyReference.cache
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfoInputs.cache
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfo.cs
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CoreCompileInputs.cache
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CopyComplete
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\refint\dieforproject.dll
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.pdb
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.genruntimeconfig.cache
+D:\work\Code\Fillmao\dieforproject\dieforproject\obj\Debug\net6.0\ref\dieforproject.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.exe
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.deps.json
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.runtimeconfig.json
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.pdb
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\FireSharp.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.AssemblyReference.cache
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfoInputs.cache
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfo.cs
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CoreCompileInputs.cache
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CopyComplete
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\refint\dieforproject.dll
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.pdb
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.genruntimeconfig.cache
+D:\work\Code\Fillmao\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\ref\dieforproject.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.exe
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.deps.json
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.runtimeconfig.json
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.pdb
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\FireSharp.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.AssemblyReference.cache
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfoInputs.cache
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfo.cs
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CoreCompileInputs.cache
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CopyComplete
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\refint\dieforproject.dll
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.pdb
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.genruntimeconfig.cache
+D:\ATTT-HK2-Năm 2\đồ án LTMCB\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\ref\dieforproject.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.exe
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.deps.json
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.runtimeconfig.json
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.pdb
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\FireSharp.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.AssemblyReference.cache
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfoInputs.cache
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfo.cs
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CoreCompileInputs.cache
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CopyComplete
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\refint\dieforproject.dll
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.pdb
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.genruntimeconfig.cache
+D:\work\Code\Fillmao\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\ref\dieforproject.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.exe
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.deps.json
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\dieforproject.pdb
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\FireSharp.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\refint\dieforproject.dll
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.pdb
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\dieforproject.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Fillmaobackend_bruh\Fillmaobackend\dieforproject\dieforproject\obj\Debug\net6.0\ref\dieforproject.dll
